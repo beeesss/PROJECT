@@ -1,6 +1,1 @@
-{
-  "msg_type": "text", // 指定消息类型
-  "content": {  // 消息内容主体
-  "text": "your-message"
-  }
-}
+curl -X POST -H "Content-Type: application/json" -d "{\"msg_type\":\"text\",\"content\":{\"text\":\"request example\"}}" https://open.feishu.cn/open-apis/bot/v2/hook/ecc58d62-e6bb-479d-976a-de080c11449f
