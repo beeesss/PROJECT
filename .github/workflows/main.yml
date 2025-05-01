@@ -1,0 +1,6 @@
+{
+  "msg_type": "text", // trial
+  "content": {  // 消息内容主体
+  "text": "your-message"
+  }
+}
