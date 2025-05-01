@@ -1,4 +1,6 @@
 {
+  "msg_type": "text", // 指定消息类型
+  "content": {  // 消息内容主体
   "text": "your-message"
   }
 }
