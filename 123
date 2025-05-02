@@ -1,0 +1,3 @@
+bots:
+  webhook: Custom Bot
+    url: https://open.feishu.cn/open-apis/bot/v2/hook/ecc58d62-e6bb-479d-976a-de080c11449f
